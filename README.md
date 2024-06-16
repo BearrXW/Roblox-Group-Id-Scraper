@@ -4,7 +4,7 @@ Roblox Group Id Scraper is a tool used for scraping User Ids From A Roblox Group
 ## Setup
   1. Install [Python](https://www.python.org/)
   2. Download and extract this repository
-  3. Run `python SCRAPER.py`
+  3. Run `python Scraper.py`
   4. Enter your group id.
   5. Done!
 ## Notes
